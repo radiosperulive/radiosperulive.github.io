@@ -1,0 +1,29 @@
+{
+  "name": "Radios Perú Live",
+  "short_name": "RadiosPE",
+  "description": "Escucha las mejores radios del Perú en vivo",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#1a0b2e",
+  "background_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://radiosperulive.blogspot.com/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://i.ibb.co/zTRj9VTf/Chat-GPT-Image-7-jun-2026-12-27-28-p-m.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/zTRj9VTf/Chat-GPT-Image-7-jun-2026-12-27-28-p-m.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
