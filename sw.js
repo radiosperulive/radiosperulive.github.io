@@ -1,7 +1,7 @@
 const CACHE_NAME = 'radios-peru-v1';
 const urlsToCache = [
   '/',
-  'https://tu-blog.blogspot.com/'
+  'https://radiosperulive.blogspot.com'
 ];
 
 self.addEventListener('install', event => {
